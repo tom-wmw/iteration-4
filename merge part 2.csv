@@ -1,0 +1,542 @@
+﻿Vehicle ID,Year,Make,Model,Class,Drive,Transmission,Engine Cylinders,Engine Displacement,Turbocharger,Supercharger,Fuel Type,Fuel Type 1,Fuel Type 2,City MPG,Highway MPG,Combined MPG,Annual Fuel Cost,Fuel Economy Score,Gasoline/Electricity Blended
+38001,2017,BMW,i3 BEV (94 Amp-hour battery),Subcompact Cars,Rear-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,129,106,118,550,10,FALSE
+38002,2017,Mercedes-Benz,B250e,Midsize Cars,Front-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,85,82,84,800,10,FALSE
+38003,2016,Ferrari,488 Spider,Two Seaters,Rear-Wheel Drive,Auto(AM7),8,3.9,T,,Premium,Premium Gasoline,,15,22,18,2350,4,FALSE
+38004,2016,Ferrari,488 Spider,Two Seaters,Rear-Wheel Drive,Auto(AM7),8,3.9,T,,Premium,Premium Gasoline,,16,22,18,2350,4,FALSE
+38005,2017,Audi,TT Roadster quattro,Two Seaters,All-Wheel Drive,Auto(AM-S6),4,2,T,,Regular,Regular Gasoline,,23,30,26,1350,6,FALSE
+38006,2017,Audi,A3 quattro,Subcompact Cars,All-Wheel Drive,Auto(AM-S6),4,2,T,,Regular,Regular Gasoline,,24,31,27,1300,6,FALSE
+38007,2017,Audi,TT Coupe quattro,Subcompact Cars,All-Wheel Drive,Auto(AM-S6),4,2,T,,Regular,Regular Gasoline,,23,30,26,1350,6,FALSE
+38008,2017,BMW,M240i Coupe,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3,T,,Premium,Premium Gasoline,,19,28,22,1900,5,FALSE
+38009,2017,BMW,M240i xDrive Coupe,Subcompact Cars,All-Wheel Drive,Automatic (S8),6,3,T,,Premium,Premium Gasoline,,21,31,25,1700,5,FALSE
+38010,2017,BMW,M240i Convertible,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3,T,,Premium,Premium Gasoline,,19,29,23,1850,5,FALSE
+38011,2017,BMW,M240i xDrive Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),6,3,T,,Premium,Premium Gasoline,,21,31,25,1700,5,FALSE
+38012,2017,BMW,440i xDrive Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),6,3,T,,Premium,Premium Gasoline,,20,30,24,1750,5,FALSE
+38013,2017,Audi,A4 Ultra,Compact Cars,Front-Wheel Drive,Auto(AM-S7),4,2,T,,Premium,Premium Gasoline,,27,37,31,1350,7,FALSE
+38014,2017,BMW,340i,Compact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3,T,,Premium,Premium Gasoline,,19,29,23,1850,5,FALSE
+38015,2017,BMW,340i xDrive,Compact Cars,All-Wheel Drive,Automatic (S8),6,3,T,,Premium,Premium Gasoline,,21,31,25,1700,5,FALSE
+38016,2017,BMW,340i xDrive,Compact Cars,All-Wheel Drive,Manual 6-Speed,6,3,T,,Premium,Premium Gasoline,,19,29,23,1850,5,FALSE
+38017,2017,BMW,440i Coupe,Compact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3,T,,Premium,Premium Gasoline,,19,29,23,1850,5,FALSE
+38018,2017,BMW,440i xDrive Coupe,Compact Cars,All-Wheel Drive,Automatic (S8),6,3,T,,Premium,Premium Gasoline,,21,31,25,1700,5,FALSE
+38019,2017,BMW,440i xDrive Coupe,Compact Cars,All-Wheel Drive,Manual 6-Speed,6,3,T,,Premium,Premium Gasoline,,19,29,23,1850,5,FALSE
+38020,2017,BMW,440i xDrive Gran Coupe,Compact Cars,All-Wheel Drive,Automatic (S8),6,3,T,,Premium,Premium Gasoline,,21,31,25,1700,5,FALSE
+38021,2017,Hyundai,Veloster,Compact Cars,Front-Wheel Drive,Auto(AM7),4,1.6,T,,Regular,Regular Gasoline,,26,32,29,1200,7,FALSE
+38022,2017,Hyundai,Veloster,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,T,,Regular,Regular Gasoline,,25,33,28,1250,6,FALSE
+38023,2017,Mazda,2,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,,,Regular,Regular Gasoline,,30,39,34,1050,8,FALSE
+38024,2017,Mazda,2,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.5,,,Regular,Regular Gasoline,,32,40,35,1000,8,FALSE
+38025,2017,Mercedes-Benz,C300,Compact Cars,Rear-Wheel Drive,Automatic 7-Speed,4,2,T,,Premium,Premium Gasoline,,24,34,28,1500,6,FALSE
+38026,2017,Mercedes-Benz,CLS550,Compact Cars,Rear-Wheel Drive,Automatic 9-Speed,8,4.7,T,,Premium,Premium Gasoline,,18,26,21,2000,4,FALSE
+38027,2017,Mercedes-Benz,CLS550 4matic,Compact Cars,4-Wheel Drive,Automatic 9-Speed,8,4.7,T,,Premium,Premium Gasoline,,17,25,20,2100,4,FALSE
+38028,2017,Audi,A6 quattro,Midsize Cars,All-Wheel Drive,Automatic (S8),4,2,T,,Premium,Premium Gasoline,,22,31,25,1700,5,FALSE
+38029,2017,Audi,A6,Midsize Cars,Front-Wheel Drive,Auto(AM-S7),4,2,T,,Premium,Premium Gasoline,,24,34,28,1500,6,FALSE
+38030,2017,Bentley,Mulsanne,Midsize Cars,Rear-Wheel Drive,Automatic (S8),8,6.8,T,,Premium,Premium Gasoline,,11,18,14,3000,1,FALSE
+38031,2017,Mazda,6,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2.5,,,Regular,Regular Gasoline,,24,34,28,1250,6,FALSE
+38032,2017,Mazda,6,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.5,,,Regular,Regular Gasoline,,26,35,29,1200,7,FALSE
+38033,2017,Mazda,6,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.5,,,Regular,Regular Gasoline,,27,35,30,1150,7,FALSE
+38034,2017,BMW,340i xDrive Gran Turismo,Large Cars,All-Wheel Drive,Automatic (S8),6,3,T,,Premium,Premium Gasoline,,20,30,24,1750,5,FALSE
+38035,2017,Chevrolet,SS,Large Cars,Rear-Wheel Drive,Automatic (S6),8,6.2,,,Premium,Premium Gasoline,,14,22,16,2650,2,FALSE
+38036,2017,Chevrolet,SS,Large Cars,Rear-Wheel Drive,Manual 6-Speed,8,6.2,,,Premium,Premium Gasoline,,14,22,17,2500,3,FALSE
+38037,2017,Lincoln,Continental  AWD,Large Cars,All-Wheel Drive,Automatic (S6),6,3,T,,Regular,Regular Gasoline,,16,24,19,1850,4,FALSE
+38038,2017,Lincoln,Continental  AWD,Large Cars,All-Wheel Drive,Automatic (S6),6,2.7,T,,Regular,Regular Gasoline,,17,25,20,1750,4,FALSE
+38039,2017,Lincoln,Continental  FWD,Large Cars,Front-Wheel Drive,Automatic (S6),6,2.7,T,,Regular,Regular Gasoline,,18,27,21,1650,4,FALSE
+38040,2017,Lincoln,Continental  FWD,Large Cars,Front-Wheel Drive,Automatic (S6),6,3.7,,,Regular,Regular Gasoline,,17,26,20,1750,4,FALSE
+38041,2017,Lincoln,Continental  AWD,Large Cars,All-Wheel Drive,Automatic (S6),6,3.7,,,Regular,Regular Gasoline,,16,24,19,1850,4,FALSE
+38042,2017,Audi,A4 allroad quattro,Small Station Wagons,All-Wheel Drive,Auto(AM-S7),4,2,T,,Premium,Premium Gasoline,,23,28,25,1700,5,FALSE
+38043,2017,Subaru,Crosstrek AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Manual 5-Speed,4,2,,,Regular,Regular Gasoline,,23,30,26,1350,6,FALSE
+38044,2017,Subaru,Crosstrek AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S6),4,2,,,Regular,Regular Gasoline,,26,33,29,1200,7,FALSE
+38045,2017,BMW,740e xDrive,Large Cars,All-Wheel Drive,Automatic (S8),4,2,T,,Premium and Electricity,Premium Gasoline,Electricity,25,29,27,1550,8,TRUE
+38046,2017,Hyundai,Sonata Plug-in Hybrid,Midsize Cars,Front-Wheel Drive,Auto(AM6),4,2,,,Regular Gas and Electricity,Regular Gasoline,Electricity,38,40,39,900,10,TRUE
+38047,2017,Ferrari,LaFerrari Aperta,Two Seaters,Part-time 4-Wheel Drive,Auto(AM7),12,6.3,,,Premium,Premium Gasoline,,12,15,13,3250,1,FALSE
+38048,2017,Mercedes-Benz,AMG SL65,Two Seaters,Rear-Wheel Drive,Automatic 7-Speed,12,6,T,,Premium,Premium Gasoline,,13,22,16,2650,2,FALSE
+38049,2017,MINI,Cooper S Convertible,Minicompact Cars,Front-Wheel Drive,Automatic (S6),4,2,T,,Premium,Premium Gasoline,,25,33,28,1500,6,FALSE
+38050,2017,Bentley,Continental GT Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),12,6,T,,Premium,Premium Gasoline,,12,20,15,2800,2,FALSE
+38051,2017,Mercedes-Benz,S65 AMG Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,12,6,T,,Premium,Premium Gasoline,,14,21,16,2650,2,FALSE
+38052,2017,Bentley,Continental GT,Compact Cars,All-Wheel Drive,Automatic (S8),12,6,T,,Premium,Premium Gasoline,,12,21,15,2800,2,FALSE
+38053,2017,Infiniti,QX30,Compact Cars,Front-Wheel Drive,Auto(AM7),4,2,T,,Premium,Premium Gasoline,,24,33,27,1550,6,FALSE
+38054,2017,Infiniti,QX30 AWD,Compact Cars,All-Wheel Drive,Auto(AM7),4,2,T,,Premium,Premium Gasoline,,21,30,25,1700,5,FALSE
+38055,2017,Nissan,Versa,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.6,,,Regular,Regular Gasoline,,31,39,34,1050,8,FALSE
+38056,2017,Nissan,Versa,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4,1.6,,,Regular,Regular Gasoline,,27,36,30,1150,7,FALSE
+38057,2017,Nissan,Versa,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4,1.6,,,Regular,Regular Gasoline,,26,35,29,1200,7,FALSE
+38058,2017,Volkswagen,CC,Compact Cars,Front-Wheel Drive,Auto(AM-S6),4,2,T,,Premium,Premium Gasoline,,22,31,25,1700,5,FALSE
+38059,2017,Volvo,S60 Polestar AWD,Compact Cars,All-Wheel Drive,Automatic (S8),4,2,T,S,Premium,Premium Gasoline,,20,27,23,1850,5,FALSE
+38060,2017,Bentley,Flying Spur,Midsize Cars,All-Wheel Drive,Automatic (S8),12,6,T,,Premium,Premium Gasoline,,12,20,15,2800,2,FALSE
+38061,2017,Toyota,Prius,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,,,Regular,Regular Gasoline,,54,50,52,650,10,FALSE
+38062,2017,Toyota,Prius Eco,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,,,Regular,Regular Gasoline,,58,53,56,600,10,FALSE
+38063,2017,Mercedes-Benz,Maybach S600,Large Cars,Rear-Wheel Drive,Automatic 7-Speed,12,6,T,,Premium,Premium Gasoline,,13,21,16,2650,2,FALSE
+38064,2017,Mercedes-Benz,S600,Large Cars,Rear-Wheel Drive,Automatic 7-Speed,12,6,T,,Premium,Premium Gasoline,,13,22,16,2650,2,FALSE
+38065,2017,Mercedes-Benz,AMG S65,Large Cars,Rear-Wheel Drive,Automatic 7-Speed,12,6,T,,Premium,Premium Gasoline,,13,22,16,2650,2,FALSE
+38066,2017,Kia,Soul,Small Station Wagons,Front-Wheel Drive,Automatic (S6),4,1.6,,,Regular,Regular Gasoline,,25,30,27,1300,6,FALSE
+38067,2017,Kia,Soul,Small Station Wagons,Front-Wheel Drive,Automatic (S6),4,2,,,Regular,Regular Gasoline,,25,30,27,1300,6,FALSE
+38068,2017,Kia,Soul,Small Station Wagons,Front-Wheel Drive,Manual 6-Speed,4,1.6,,,Regular,Regular Gasoline,,24,30,27,1300,6,FALSE
+38069,2017,Volvo,V60 Polestar AWD,Small Station Wagons,All-Wheel Drive,Automatic (S8),4,2,T,S,Premium,Premium Gasoline,,20,27,23,1850,5,FALSE
+38070,2017,Toyota,RAV4,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.5,,,Regular,Regular Gasoline,,23,29,25,1400,5,FALSE
+38071,2017,Toyota,RAV4 LE/XLE,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.5,,,Regular,Regular Gasoline,,23,30,26,1350,6,FALSE
+38072,2017,Mercedes-Benz,GLA250 4matic,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Auto(AM7),4,2,T,,Premium,Premium Gasoline,,23,31,26,1650,6,FALSE
+38073,2017,Toyota,RAV4 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.5,,,Regular,Regular Gasoline,,22,28,25,1400,5,FALSE
+38074,2017,Toyota,RAV4 Limited AWD/SE AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2.5,,,Regular,Regular Gasoline,,22,28,24,1450,5,FALSE
+38075,2017,Toyota,RAV4 Hybrid AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S6),4,2.5,,,Regular,Regular Gasoline,,34,30,32,1100,7,FALSE
+38076,2017,Nissan,Armada 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S7),8,5.6,,,Regular,Regular Gasoline,,14,19,16,2200,2,FALSE
+38077,2017,Lexus,GX 460,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S6),8,4.6,,,Premium,Premium Gasoline,,15,18,16,2650,2,FALSE
+38078,2017,Lexus,LX 570,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),8,5.7,,,Premium,Premium Gasoline,,13,18,15,2800,2,FALSE
+38079,2017,Nissan,Armada 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S7),8,5.6,,,Regular,Regular Gasoline,,13,18,15,2350,2,FALSE
+38080,2017,Toyota,Land Cruiser Wagon 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),8,5.7,,,Regular,Regular Gasoline,,13,18,15,2350,2,FALSE
+38081,2017,BMW,330e,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2,T,,Premium and Electricity,Premium Gasoline,Electricity,28,34,30,1400,9,TRUE
+38082,2017,Lotus,Evora,Minicompact Cars,Rear-Wheel Drive,Manual 6-Speed,6,3.5,,S,Premium,Premium Gasoline,,16,24,19,2250,4,FALSE
+38083,2017,Lotus,Evora,Minicompact Cars,Rear-Wheel Drive,Automatic (S6),6,3.5,,S,Premium,Premium Gasoline,,17,24,20,2100,4,FALSE
+38084,2017,Buick,Cascada,Subcompact Cars,Rear-Wheel Drive,Automatic (S6),4,1.6,T,,Premium,Premium Gasoline,,20,27,23,1850,5,FALSE
+38085,2017,Mercedes-Benz,AMG C63 S Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,8,4,T,,Premium,Premium Gasoline,,17,23,19,2250,4,FALSE
+38086,2017,Mercedes-Benz,AMG C63 Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,8,4,T,,Premium,Premium Gasoline,,17,23,19,2250,4,FALSE
+38087,2017,Hyundai,Veloster,Compact Cars,Front-Wheel Drive,Auto(AM6),4,1.6,,,Regular,Regular Gasoline,,28,35,31,1150,7,FALSE
+38088,2017,Hyundai,Veloster,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,,,Regular,Regular Gasoline,,27,34,30,1150,7,FALSE
+38089,2017,Jaguar,XE,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2,T,,Diesel,Diesel,,32,42,36,1050,8,FALSE
+38090,2017,Jaguar,XE AWD,Compact Cars,All-Wheel Drive,Automatic (S8),4,2,T,,Diesel,Diesel,,30,40,34,1150,8,FALSE
+38091,2017,Kia,Forte Koup,Compact Cars,Front-Wheel Drive,Automatic (S6),4,2,,,Regular,Regular Gasoline,,25,33,28,1250,6,FALSE
+38092,2017,Kia,Forte Koup,Compact Cars,Front-Wheel Drive,Auto(AM7),4,1.6,T,,Regular,Regular Gasoline,,25,32,27,1300,6,FALSE
+38093,2017,Kia,Forte Koup,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,T,,Regular,Regular Gasoline,,23,30,26,1350,6,FALSE
+38094,2017,Mercedes-Benz,AMG C63,Compact Cars,Rear-Wheel Drive,Automatic 7-Speed,8,4,T,,Premium,Premium Gasoline,,18,25,21,2000,4,FALSE
+38095,2017,Mercedes-Benz,AMG C63 S,Compact Cars,Rear-Wheel Drive,Automatic 7-Speed,8,4,T,,Premium,Premium Gasoline,,18,24,20,2100,4,FALSE
+38096,2017,Chevrolet,Malibu,Midsize Cars,Front-Wheel Drive,Automatic 9-Speed,4,2,T,,Premium,Premium Gasoline,,22,33,26,1650,6,FALSE
+38097,2017,Chevrolet,Malibu Hybrid,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,,,Regular,Regular Gasoline,,49,43,46,750,10,FALSE
+38098,2017,Chrysler,200,Midsize Cars,Front-Wheel Drive,Automatic 9-Speed,4,2.4,,,Regular,Regular Gasoline,,23,36,27,1300,6,FALSE
+38099,2017,Chrysler,200,Midsize Cars,Front-Wheel Drive,Automatic 9-Speed,4,2.4,,,Gasoline or E85,Regular Gasoline,E85,23,36,27,1300,6,FALSE
+38100,2017,Chrysler,200,Midsize Cars,Front-Wheel Drive,Automatic 9-Speed,6,3.6,,,Gasoline or E85,Regular Gasoline,E85,19,31,23,1500,5,FALSE
+38101,2017,Chrysler,200 AWD,Midsize Cars,All-Wheel Drive,Automatic 9-Speed,6,3.6,,,Gasoline or E85,Regular Gasoline,E85,18,28,22,1600,5,FALSE
+38102,2017,Infiniti,Q50,Midsize Cars,Rear-Wheel Drive,Automatic (S7),6,3,T,,Premium,Premium Gasoline,,20,29,23,1850,5,FALSE
+38103,2017,Infiniti,Q50S Red Sport,Midsize Cars,Rear-Wheel Drive,Automatic (S7),6,3,T,,Premium,Premium Gasoline,,20,26,22,1900,5,FALSE
+38104,2017,Infiniti,Q50 AWD,Midsize Cars,All-Wheel Drive,Automatic (S7),6,3,T,,Premium,Premium Gasoline,,19,27,22,1900,5,FALSE
+38105,2017,Infiniti,Q50S Red Sport  AWD,Midsize Cars,All-Wheel Drive,Automatic (S7),6,3,T,,Premium,Premium Gasoline,,19,26,22,1900,5,FALSE
+38106,2017,Infiniti,Q50,Midsize Cars,Rear-Wheel Drive,Automatic (S7),4,2,T,,Premium,Premium Gasoline,,23,31,26,1650,6,FALSE
+38107,2017,Infiniti,Q50 AWD,Midsize Cars,All-Wheel Drive,Automatic (S7),4,2,T,,Premium,Premium Gasoline,,22,28,24,1750,5,FALSE
+38108,2017,Jaguar,XF,Midsize Cars,Rear-Wheel Drive,Automatic (S8),4,2,T,,Diesel,Diesel,,31,42,35,1100,8,FALSE
+38109,2017,Jaguar,XF AWD,Midsize Cars,All-Wheel Drive,Automatic (S8),4,2,T,,Diesel,Diesel,,30,40,34,1150,8,FALSE
+38110,2017,Lexus,ES 350,Midsize Cars,Front-Wheel Drive,Automatic (S6),6,3.5,,,Regular,Regular Gasoline,,21,30,24,1450,5,FALSE
+38111,2017,Lexus,ES 300h,Midsize Cars,Front-Wheel Drive,Auto(AV-S6),4,2.5,,,Regular,Regular Gasoline,,40,39,40,850,9,FALSE
+38112,2017,Toyota,Corolla iM,Midsize Cars,Front-Wheel Drive,Auto(AV-S7),4,1.8,,,Regular,Regular Gasoline,,28,36,31,1150,7,FALSE
+38113,2017,Toyota,Corolla iM,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.8,,,Regular,Regular Gasoline,,27,35,30,1150,7,FALSE
+38114,2017,Kia,Forte 5,Large Cars,Front-Wheel Drive,Automatic (S6),4,2,,,Regular,Regular Gasoline,,25,34,28,1250,6,FALSE
+38115,2017,Kia,Forte 5,Large Cars,Front-Wheel Drive,Auto(AM7),4,1.6,T,,Regular,Regular Gasoline,,25,30,27,1300,6,FALSE
+38116,2017,Kia,Forte 5,Large Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,T,,Regular,Regular Gasoline,,23,29,25,1400,5,FALSE
+38117,2017,Mercedes-Benz,S550,Large Cars,Rear-Wheel Drive,Automatic 9-Speed,8,4.7,T,,Premium,Premium Gasoline,,18,26,21,2000,4,FALSE
+38118,2017,Mercedes-Benz,S550 4matic,Large Cars,4-Wheel Drive,Automatic 9-Speed,8,4.7,T,,Premium,Premium Gasoline,,16,25,20,2100,4,FALSE
+38119,2017,Mercedes-Benz,GLA250,Midsize Station Wagons,Front-Wheel Drive,Auto(AM7),4,2,T,,Premium,Premium Gasoline,,24,33,27,1550,6,FALSE
+38120,2017,Nissan,Titan 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S7),8,5.6,,,Regular,Regular Gasoline,,15,21,18,1950,3,FALSE
+38121,2017,Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),8,4.6,,,Regular,Regular Gasoline,,15,19,16,2200,2,FALSE
+38122,2017,Toyota,Tundra 2WD FFV,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),8,5.7,,,Gasoline or E85,Regular Gasoline,E85,13,18,15,2350,2,FALSE
+38123,2017,Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),8,5.7,,,Regular,Regular Gasoline,,13,18,15,2350,2,FALSE
+38124,2017,Nissan,Titan 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S7),8,5.6,,,Regular,Regular Gasoline,,15,21,18,1950,3,FALSE
+38125,2017,Nissan,Titan 4WD  PRO4X,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S7),8,5.6,,,Regular,Regular Gasoline,,15,20,17,2050,3,FALSE
+38126,2017,Toyota,Tundra 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,4.6,,,Regular,Regular Gasoline,,14,18,16,2200,2,FALSE
+38127,2017,Toyota,Tundra 4WD FFV,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,5.7,,,Gasoline or E85,Regular Gasoline,E85,13,17,15,2350,2,FALSE
+38128,2017,Toyota,Tundra 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,5.7,,,Regular,Regular Gasoline,,13,17,15,2350,2,FALSE
+38129,2017,Buick,Encore,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,1.4,T,,Regular,Regular Gasoline,,27,33,30,1150,7,FALSE
+38130,2017,Lexus,RX 350,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),6,3.5,,,Regular,Regular Gasoline,,20,27,23,1500,5,FALSE
+38131,2017,Buick,Encore AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,1.4,T,,Regular,Regular Gasoline,,26,31,28,1250,6,FALSE
+38132,2017,Lexus,RX 350 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.5,,,Regular,Regular Gasoline,,19,26,22,1600,5,FALSE
+38133,2017,Mercedes-Benz,GLA250 4matic,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Auto(AM7),4,2,T,,Premium or E85,Premium Gasoline,E85,23,31,26,1650,6,FALSE
+38134,2017,Aston Martin,V12 Vantage S,Two Seaters,Rear-Wheel Drive,Auto(AM7),12,6,,,Premium,Premium Gasoline,,12,18,14,3000,1,FALSE
+38135,2017,Aston Martin,V12 Vantage S,Two Seaters,Rear-Wheel Drive,Manual(M7),12,6,,,Premium,Premium Gasoline,,10,16,12,3500,1,FALSE
+38136,2017,McLaren Automotive,570S Coupe,Two Seaters,Rear-Wheel Drive,Automatic 7-Speed,8,3.8,T,,Premium,Premium Gasoline,,16,23,19,2250,4,FALSE
+38137,2017,McLaren Automotive,570GT,Two Seaters,Rear-Wheel Drive,Automatic 7-Speed,8,3.8,T,,Premium,Premium Gasoline,,16,23,19,2250,4,FALSE
+38138,2017,Aston Martin,Vanquish S Zagato,Minicompact Cars,Rear-Wheel Drive,Automatic (S8),12,6,,,Premium,Premium Gasoline,,13,21,16,2650,2,FALSE
+38139,2017,Aston Martin,Rapide S,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),12,6,,,Premium,Premium Gasoline,,14,21,17,2500,3,FALSE
+38140,2017,Mercedes-Benz,C300 4matic Convertible,Subcompact Cars,4-Wheel Drive,Automatic 9-Speed,4,2,T,,Premium,Premium Gasoline,,22,29,25,1700,5,FALSE
+38141,2017,Mercedes-Benz,C300 Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic 9-Speed,4,2,T,,Premium,Premium Gasoline,,23,31,26,1650,6,FALSE
+38142,2017,Mercedes-Benz,CLA250 4matic,Compact Cars,4-Wheel Drive,Auto(AM7),4,2,T,,Premium,Premium Gasoline,,23,32,27,1550,6,FALSE
+38143,2017,Mercedes-Benz,S550 4matic Coupe,Compact Cars,4-Wheel Drive,Automatic 9-Speed,8,4.7,T,,Premium,Premium Gasoline,,17,25,20,2100,4,FALSE
+38144,2017,Mercedes-Benz,AMG S63 4matic Coupe,Compact Cars,4-Wheel Drive,Automatic 7-Speed,8,5.5,T,,Premium,Premium Gasoline,,15,23,18,2350,3,FALSE
+38145,2017,Mitsubishi,Lancer,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4,2,,,Regular,Regular Gasoline,,24,33,28,1250,6,FALSE
+38146,2017,Mitsubishi,Lancer,Compact Cars,Front-Wheel Drive,Auto(AV-S6),4,2,,,Regular,Regular Gasoline,,27,34,30,1150,7,FALSE
+38147,2017,Mitsubishi,Lancer 4WD,Compact Cars,All-Wheel Drive,Auto(AV-S6),4,2.4,,,Regular,Regular Gasoline,,23,30,26,1350,6,FALSE
+38148,2017,Volkswagen,CC 4motion,Compact Cars,All-Wheel Drive,Automatic (S6),6,3.6,,,Regular,Regular Gasoline,,17,25,20,1750,4,FALSE
+38149,2017,Nissan,Altima SR,Midsize Cars,Front-Wheel Drive,Auto(AV-S7),4,2.5,,,Regular,Regular Gasoline,,26,37,30,1150,7,FALSE
+38150,2017,Nissan,Altima,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2.5,,,Regular,Regular Gasoline,,27,39,31,1150,7,FALSE
+38151,2017,Nissan,Altima,Midsize Cars,Front-Wheel Drive,Auto(AV-S7),6,3.5,,,Regular,Regular Gasoline,,22,32,26,1350,6,FALSE
+38152,2017,Toyota,Corolla,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.8,,,Regular,Regular Gasoline,,27,35,30,1150,7,FALSE
+38153,2017,Toyota,Corolla,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,,,Regular,Regular Gasoline,,28,36,32,1100,7,FALSE
+38154,2017,Toyota,Corolla,Midsize Cars,Front-Wheel Drive,Auto(AV-S7),4,1.8,,,Regular,Regular Gasoline,,28,35,31,1150,7,FALSE
+38155,2017,Toyota,Corolla LE Eco,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,,,Regular,Regular Gasoline,,30,40,34,1050,8,FALSE
+38156,2017,Toyota,Corolla LE Eco,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,,,Regular,Regular Gasoline,,29,38,33,1050,8,FALSE
+38157,2017,Mercedes-Benz,AMG S63 4matic,Large Cars,4-Wheel Drive,Automatic 7-Speed,8,5.5,T,,Premium,Premium Gasoline,,15,23,18,2350,3,FALSE
+38158,2017,Honda,HR-V FWD,Small Station Wagons,Front-Wheel Drive,Manual 6-Speed,4,1.8,,,Regular,Regular Gasoline,,25,33,28,1250,6,FALSE
+38159,2017,Honda,HR-V FWD,Small Station Wagons,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,,,Regular,Regular Gasoline,,28,34,31,1150,7,FALSE
+38160,2017,Honda,HR-V FWD,Small Station Wagons,Front-Wheel Drive,Auto(AV-S7),4,1.8,,,Regular,Regular Gasoline,,28,34,31,1150,7,FALSE
+38161,2017,Honda,HR-V AWD,Small Station Wagons,All-Wheel Drive,Automatic (variable gear ratios),4,1.8,,,Regular,Regular Gasoline,,27,31,29,1200,7,FALSE
+38162,2017,Honda,HR-V AWD,Small Station Wagons,All-Wheel Drive,Auto(AV-S7),4,1.8,,,Regular,Regular Gasoline,,27,31,29,1200,7,FALSE
+38163,2017,Nissan,Pathfinder 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),6,3.5,,,Regular,Regular Gasoline,,20,27,23,1500,5,FALSE
+38164,2017,Jaguar,F-Pace,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2,T,,Diesel,Diesel,,26,33,29,1350,7,FALSE
+38165,2017,Nissan,Pathfinder 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (variable gear ratios),6,3.5,,,Regular,Regular Gasoline,,19,26,22,1600,5,FALSE
+38166,2017,Nissan,Pathfinder 4WD Platinum,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (variable gear ratios),6,3.5,,,Regular,Regular Gasoline,,19,26,21,1650,4,FALSE
+38167,2017,Lexus,RX 450h AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S6),6,3.5,,,Premium,Premium Gasoline,,31,28,30,1400,7,FALSE
+38168,2017,Kia,Soul Electric,Small Station Wagons,Front-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,120,92,105,600,10,FALSE
+38169,2017,BMW,X5 xDrive40e,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2,T,,Premium and Electricity,Premium Gasoline,Electricity,23,25,24,1750,7,TRUE
+38170,2016,Tesla,Model S (60 kW-hr battery pack),Large Cars,Rear-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,98,101,99,650,10,FALSE
+38171,2016,Tesla,Model S AWD - 60D,Large Cars,All-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,101,107,104,600,10,FALSE
+38172,2016,Tesla,Model S AWD - P100D,Large Cars,All-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,92,105,98,700,10,FALSE
+38173,2016,Tesla,Model X AWD - 60D,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,91,94,93,700,10,FALSE
+38174,2017,Mazda,MX-5,Two Seaters,Rear-Wheel Drive,Manual 6-Speed,4,2,,,Premium,Premium Gasoline,,26,33,29,1450,7,FALSE
+38175,2017,Mazda,MX-5,Two Seaters,Rear-Wheel Drive,Automatic (S6),4,2,,,Premium,Premium Gasoline,,26,35,29,1450,7,FALSE
+38176,2017,Audi,A3 Cabriolet quattro,Subcompact Cars,All-Wheel Drive,Auto(AM-S6),4,2,T,,Regular,Regular Gasoline,,22,30,25,1400,5,FALSE
+38177,2017,Hyundai,Elantra,Midsize Cars,Front-Wheel Drive,Auto(AM7),4,1.6,T,,Regular,Regular Gasoline,,26,33,29,1200,7,FALSE
+38178,2017,Hyundai,Elantra,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,T,,Regular,Regular Gasoline,,22,30,25,1400,5,FALSE
+38179,2017,MINI,Cooper S Clubman,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2,T,,Premium,Premium Gasoline,,22,31,25,1700,5,FALSE
+38180,2017,Fiat,500 X,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Manual 6-Speed,4,1.4,T,,Premium,Premium Gasoline,,25,33,28,1500,6,FALSE
+38181,2017,Fiat,500 X,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 9-Speed,4,2.4,,,Regular,Regular Gasoline,,22,30,25,1400,5,FALSE
+38182,2017,Jeep,Renegade 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Manual 6-Speed,4,1.4,T,,Premium,Premium Gasoline,,24,31,26,1650,6,FALSE
+38183,2017,Fiat,500 X AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-Speed,4,2.4,,,Regular,Regular Gasoline,,21,29,24,1450,5,FALSE
+38184,2017,Jeep,Renegade 4WD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Manual 6-Speed,4,1.4,T,,Premium,Premium Gasoline,,24,31,26,1650,6,FALSE
+38185,2017,Chevrolet,Silverado C15 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-Speed,8,5.3,,,Regular,Regular Gasoline,,16,22,18,1950,3,FALSE
+38186,2017,GMC,Sierra C15 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-Speed,8,5.3,,,Regular,Regular Gasoline,,16,22,18,1950,3,FALSE
+38187,2017,Chevrolet,Bolt,Small Station Wagons,Front-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,128,110,119,550,10,FALSE
+38188,2017,Lexus,RC 300 AWD,Subcompact Cars,All-Wheel Drive,Automatic (S6),6,3.5,,,Premium,Premium Gasoline,,19,26,21,2000,4,FALSE
+38189,2017,Lexus,RC 350,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),6,3.5,,,Premium,Premium Gasoline,,19,28,22,1900,5,FALSE
+38190,2017,Lexus,RC 350 AWD,Subcompact Cars,All-Wheel Drive,Automatic (S6),6,3.5,,,Premium,Premium Gasoline,,19,26,21,2000,4,FALSE
+38191,2017,Lexus,RC F,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),8,5,,,Premium,Premium Gasoline,,16,25,19,2250,4,FALSE
+38192,2017,Lexus,RC 200t,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),4,2,T,,Premium,Premium Gasoline,,22,32,26,1650,6,FALSE
+38193,2017,Roush Performance,Stage 3 Mustang,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,8,5,,S,Premium,Premium Gasoline,,13,23,16,2650,2,FALSE
+38194,2017,Roush Performance,Stage 3 Mustang,Subcompact Cars,Rear-Wheel Drive,Automatic (S6),8,5,,S,Premium,Premium Gasoline,,14,22,17,2500,3,FALSE
+38195,2017,Lexus,GS F,Compact Cars,Rear-Wheel Drive,Automatic (S8),8,5,,,Premium,Premium Gasoline,,16,24,19,2250,4,FALSE
+38196,2017,Mercedes-Benz,CLA250 4matic,Compact Cars,4-Wheel Drive,Auto(AM7),4,2,T,,Premium or E85,Premium Gasoline,E85,23,32,27,1550,6,FALSE
+38197,2017,Lexus,LS 460,Midsize Cars,Rear-Wheel Drive,Automatic (S8),8,4.6,,,Premium,Premium Gasoline,,16,24,19,2250,4,FALSE
+38198,2017,Lexus,LS 460 AWD,Midsize Cars,All-Wheel Drive,Automatic (S8),8,4.6,,,Premium,Premium Gasoline,,16,23,18,2350,3,FALSE
+38199,2017,Lexus,LS 460 L,Midsize Cars,Rear-Wheel Drive,Automatic (S8),8,4.6,,,Premium,Premium Gasoline,,16,24,19,2250,4,FALSE
+38200,2017,Lexus,LS 460 L AWD,Midsize Cars,All-Wheel Drive,Automatic (S8),8,4.6,,,Premium,Premium Gasoline,,16,23,18,2350,3,FALSE
+38201,2017,Lexus,GS 350,Midsize Cars,Rear-Wheel Drive,Automatic (S8),6,3.5,,,Premium,Premium Gasoline,,20,28,23,1850,5,FALSE
+38202,2017,Lexus,GS 350 AWD,Midsize Cars,All-Wheel Drive,Automatic (S6),6,3.5,,,Premium,Premium Gasoline,,19,26,22,1900,5,FALSE
+38203,2017,Lexus,GS 350 F Sport,Midsize Cars,Rear-Wheel Drive,Automatic (S8),6,3.5,,,Premium,Premium Gasoline,,19,27,22,1900,5,FALSE
+38204,2017,Lexus,GS 200t,Midsize Cars,Rear-Wheel Drive,Automatic (S8),4,2,T,,Premium,Premium Gasoline,,22,32,26,1650,6,FALSE
+38205,2017,Lexus,GS 200t F Sport,Midsize Cars,Rear-Wheel Drive,Automatic (S8),4,2,T,,Premium,Premium Gasoline,,21,30,24,1750,5,FALSE
+38206,2017,Lexus,GS 450h,Midsize Cars,Rear-Wheel Drive,Auto(AV-S8),6,3.5,,,Premium,Premium Gasoline,,29,34,31,1350,7,FALSE
+38207,2017,MINI,Cooper Clubman All4,Midsize Cars,All-Wheel Drive,Manual 6-Speed,4,1.5,T,,Premium,Premium Gasoline,,22,32,26,1650,6,FALSE
+38208,2017,Kia,Optima,Large Cars,Front-Wheel Drive,Auto(AM7),4,1.6,T,,Regular,Regular Gasoline,,28,37,31,1150,7,FALSE
+38209,2017,Kia,Optima,Large Cars,Front-Wheel Drive,Automatic (S6),4,2,T,,Regular,Regular Gasoline,,22,31,25,1400,5,FALSE
+38210,2017,Kia,Optima FE,Large Cars,Front-Wheel Drive,Automatic (S6),4,2.4,,,Regular,Regular Gasoline,,25,36,29,1200,7,FALSE
+38211,2017,Kia,Optima,Large Cars,Front-Wheel Drive,Automatic (S6),4,2.4,,,Regular,Regular Gasoline,,24,34,28,1250,6,FALSE
+38212,2017,Mercedes-Benz,Maybach S550 4matic,Large Cars,4-Wheel Drive,Automatic 9-Speed,8,4.7,T,,Premium,Premium Gasoline,,16,24,19,2250,4,FALSE
+38213,2017,Nissan,Murano FWD,Midsize Station Wagons,Front-Wheel Drive,Auto(AV-S7),6,3.5,,,Regular,Regular Gasoline,,21,28,24,1450,5,FALSE
+38214,2017,Nissan,Murano AWD,Midsize Station Wagons,All-Wheel Drive,Auto(AV-S7),6,3.5,,,Regular,Regular Gasoline,,21,28,24,1450,5,FALSE
+38215,2017,Ford,F150 4WD BASE PAYLOAD LT TIRE,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),6,3.5,T,,Regular,Regular Gasoline,,17,22,19,1850,4,FALSE
+38216,2017,Chevrolet,City Express Cargo Van,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),4,2,,,Regular,Regular Gasoline,,24,26,25,1400,5,FALSE
+38217,2017,Nissan,NV200 Cargo Van,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),4,2,,,Regular,Regular Gasoline,,24,26,25,1400,5,FALSE
+38218,2017,Infiniti,QX60 FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Auto(AV-S7),6,3.5,,,Premium,Premium Gasoline,,20,27,22,1900,5,FALSE
+38219,2017,Infiniti,QX60 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S7),6,3.5,,,Premium,Premium Gasoline,,19,26,22,1900,5,FALSE
+38220,2017,Jeep,Wrangler 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 5-Speed,6,3.6,,,Regular,Regular Gasoline,,17,21,18,1950,3,FALSE
+38221,2017,Jeep,Wrangler 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Manual 6-Speed,6,3.6,,,Regular,Regular Gasoline,,17,21,18,1950,3,FALSE
+38222,2017,Jeep,Wrangler Unlimited 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 5-Speed,6,3.6,,,Regular,Regular Gasoline,,16,20,18,1950,3,FALSE
+38223,2017,Jeep,Wrangler Unlimited 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Manual 6-Speed,6,3.6,,,Regular,Regular Gasoline,,16,21,18,1950,3,FALSE
+38224,2017,Infiniti,QX80 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S7),8,5.6,,,Premium,Premium Gasoline,,14,20,16,2650,2,FALSE
+38225,2017,Infiniti,QX60 Hybrid FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Auto(AV-S7),4,2.5,,S,Regular,Regular Gasoline,,25,27,26,1350,6,FALSE
+38226,2017,Infiniti,QX80 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S7),8,5.6,,,Premium,Premium Gasoline,,13,19,15,2800,2,FALSE
+38227,2017,Infiniti,QX60 Hybrid AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S7),4,2.5,,S,Regular,Regular Gasoline,,25,27,26,1350,6,FALSE
+38228,2017,Audi,A3 e-tron,Compact Cars,Front-Wheel Drive,Auto(AM-S6),4,1.4,T,,Premium and Electricity,Premium Gasoline,Electricity,33,36,34,1250,10,TRUE
+38229,2017,BMW,i3 REX  (94 Amp-hour battery),Subcompact Cars,Rear-Wheel Drive,Automatic (A1),2,0.6,,,Premium Gas or Electricity,Premium Gasoline,Electricity,36,33,35,1200,10,FALSE
+38230,2017,BMW,i8,Subcompact Cars,All-Wheel Drive,Automatic 6-Speed,3,1.5,T,,Premium and Electricity,Premium Gasoline,Electricity,28,29,28,1500,8,TRUE
+38231,2017,Audi,A3,Subcompact Cars,Front-Wheel Drive,Auto(AM-S7),4,2,T,,Regular,Regular Gasoline,,26,35,29,1200,7,FALSE
+38232,2017,Audi,A3 Cabriolet,Subcompact Cars,Front-Wheel Drive,Auto(AM-S7),4,2,T,,Regular,Regular Gasoline,,25,34,28,1250,6,FALSE
+38233,2017,Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Manual 6-Speed,8,6.2,,S,Premium,Premium Gasoline,,14,20,16,2650,2,FALSE
+38234,2017,Volkswagen,Beetle Convertible,Subcompact Cars,Front-Wheel Drive,Automatic (S6),4,1.8,T,,Regular,Regular Gasoline,,24,33,28,1250,6,FALSE
+38235,2017,Volkswagen,Beetle Dune Convertible,Subcompact Cars,Front-Wheel Drive,Automatic (S6),4,1.8,T,,Regular,Regular Gasoline,,24,31,27,1300,6,FALSE
+38236,2017,Honda,Civic 2Dr,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,2,,,Regular,Regular Gasoline,,28,39,32,1100,7,FALSE
+38237,2017,Honda,Civic 2Dr,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2,,,Regular,Regular Gasoline,,30,39,34,1050,8,FALSE
+38238,2017,Honda,Civic 2Dr,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,T,,Regular,Regular Gasoline,,30,41,35,1000,8,FALSE
+38239,2017,Honda,Civic 2Dr,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.5,T,,Regular,Regular Gasoline,,31,40,35,1000,8,FALSE
+38240,2017,Mercedes-Benz,CLA250,Compact Cars,Front-Wheel Drive,Auto(AM7),4,2,T,,Premium,Premium Gasoline,,24,36,29,1450,7,FALSE
+38241,2017,Volkswagen,Beetle,Compact Cars,Front-Wheel Drive,Auto(AM-S6),4,2,T,,Regular,Regular Gasoline,,23,29,26,1350,6,FALSE
+38242,2017,Volkswagen,Beetle,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.8,T,,Regular,Regular Gasoline,,24,33,28,1250,6,FALSE
+38243,2017,Volkswagen,Beetle Dune,Compact Cars,Front-Wheel Drive,Automatic (S6),4,1.8,T,,Regular,Regular Gasoline,,24,31,27,1300,6,FALSE
+38244,2017,Bentley,Mulsanne EWB,Midsize Cars,Rear-Wheel Drive,Automatic (S8),8,6.8,T,,Premium,Premium Gasoline,,11,17,13,3250,1,FALSE
+38245,2017,Ford,Focus RS AWD,Midsize Cars,All-Wheel Drive,Manual 6-Speed,4,2.3,T,,Premium,Premium Gasoline,,19,25,22,1900,5,FALSE
+38246,2017,Honda,Civic 4Dr,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2,,,Regular,Regular Gasoline,,28,40,32,1100,7,FALSE
+38247,2017,Honda,Civic 4Dr,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2,,,Regular,Regular Gasoline,,31,40,34,1050,8,FALSE
+38248,2017,Honda,Civic 4Dr,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,T,,Regular,Regular Gasoline,,31,42,35,1000,8,FALSE
+38249,2017,Honda,Civic 4Dr,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.5,T,,Regular,Regular Gasoline,,32,42,36,950,8,FALSE
+38250,2017,MINI,Cooper Clubman All4,Midsize Cars,All-Wheel Drive,Automatic (S8),4,1.5,T,,Premium,Premium Gasoline,,22,29,25,1700,5,FALSE
+38251,2017,Nissan,Sentra,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.8,,,Regular,Regular Gasoline,,27,35,30,1150,7,FALSE
+38252,2017,Nissan,Sentra,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,,,Regular,Regular Gasoline,,29,37,32,1100,7,FALSE
+38253,2017,Nissan,Sentra,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,T,,Premium,Premium Gasoline,,26,32,28,1500,6,FALSE
+38254,2017,Nissan,Sentra,Midsize Cars,Front-Wheel Drive,Auto(AV-S7),4,1.6,T,,Premium,Premium Gasoline,,27,33,29,1450,7,FALSE
+38255,2017,Honda,Civic 5Dr,Large Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,T,,Regular,Regular Gasoline,,30,39,33,1050,8,FALSE
+38256,2017,Honda,Civic 5Dr,Large Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.5,T,,Regular,Regular Gasoline,,31,40,34,1050,8,FALSE
+38257,2017,Honda,Civic 5Dr Sport,Large Cars,Front-Wheel Drive,Auto(AV-S7),4,1.5,T,,Premium,Premium Gasoline,,30,36,32,1300,7,FALSE
+38258,2017,Honda,Civic 5Dr Sport,Large Cars,Front-Wheel Drive,Manual 6-Speed,4,1.5,T,,Premium,Premium Gasoline,,30,39,33,1300,8,FALSE
+38259,2017,Volkswagen,Golf Alltrack,Small Station Wagons,All-Wheel Drive,Auto(AM-S6),4,1.8,T,,Regular,Regular Gasoline,,22,30,25,1400,5,FALSE
+38260,2017,Volkswagen,Golf SportWagen 4motion,Small Station Wagons,All-Wheel Drive,Auto(AM-S6),4,1.8,T,,Regular,Regular Gasoline,,22,30,25,1400,5,FALSE
+38261,2017,Ford,F150 Pickup 2WD FFV,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),8,5,,,Gasoline or E85,Regular Gasoline,E85,15,22,18,1950,3,FALSE
+38262,2017,Ford,F150 5.0L 2WD FFV GVWR>7599 LBS,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),8,5,,,Gasoline or E85,Regular Gasoline,E85,14,20,16,2200,2,FALSE
+38263,2017,Ford,F150 2.7L 2WD GVWR>6649 LBS,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),6,2.7,T,,Regular,Regular Gasoline,,18,24,21,1650,4,FALSE
+38264,2017,Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),6,2.7,T,,Regular,Regular Gasoline,,19,26,22,1600,5,FALSE
+38265,2017,Ford,F150 Pickup 2WD FFV,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,6,3.5,,,Gasoline or E85,Regular Gasoline,E85,18,24,20,1750,4,FALSE
+38266,2017,Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S10),6,3.5,T,,Regular,Regular Gasoline,,18,25,21,1650,4,FALSE
+38267,2017,Ford,F150 3.5L 2WD GVWR>7599 LBS,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S10),6,3.5,T,,Regular,Regular Gasoline,,17,22,19,1850,4,FALSE
+38268,2017,Ford,F150 2WD BASE PAYLOAD LT TIRE,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S6),6,2.7,T,,Regular,Regular Gasoline,,19,24,21,1650,4,FALSE
+38269,2017,Ford,F150 2WD BASE PAYLOAD LT TIRE,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S10),6,3.5,T,,Regular,Regular Gasoline,,18,23,20,1750,4,FALSE
+38270,2017,Ford,F150 Pickup 4WD FFV,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,5,,,Gasoline or E85,Regular Gasoline,E85,15,21,17,2050,3,FALSE
+38271,2017,Ford,F150 5.0L 4WD FFV GVWR>7599 LBS,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,5,,,Gasoline or E85,Regular Gasoline,E85,14,19,16,2200,2,FALSE
+38272,2017,Ford,F150 2.7L 4WD GVWR>6649 LBS,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),6,2.7,T,,Regular,Regular Gasoline,,18,22,19,1850,4,FALSE
+38273,2017,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),6,2.7,T,,Regular,Regular Gasoline,,18,23,20,1750,4,FALSE
+38274,2017,Ford,F150 Pickup 4WD FFV,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic 6-Speed,6,3.5,,,Gasoline or E85,Regular Gasoline,E85,17,23,19,1850,4,FALSE
+38275,2017,Ford,F150 RAPTOR 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),6,3.5,T,,Regular,Regular Gasoline,,15,18,16,2200,2,FALSE
+38276,2017,Ford,F150 4WD BASE PAYLOAD LT TIRE,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),6,2.7,T,,Regular,Regular Gasoline,,17,21,19,1850,4,FALSE
+38277,2017,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),6,3.5,T,,Regular,Regular Gasoline,,17,23,20,1750,4,FALSE
+38278,2017,Ford,F150 3.5L 4WD GVWR>7599 LBS,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),6,3.5,T,,Regular,Regular Gasoline,,17,21,19,1850,4,FALSE
+38279,2017,Ford,F150 4WD FFV BASE PAYLOAD LT TIRE,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,5,,,Gasoline or E85,Regular Gasoline,E85,15,20,17,2050,3,FALSE
+38280,2017,Lexus,NX 200t,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2,T,,Premium,Premium Gasoline,,22,28,25,1700,5,FALSE
+38281,2017,Mitsubishi,Outlander 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Auto(AV-S6),4,2.4,,,Regular,Regular Gasoline,,25,30,27,1300,6,FALSE
+38282,2017,Mitsubishi,Outlander Sport 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Manual 5-Speed,4,2,,,Regular,Regular Gasoline,,23,29,25,1400,5,FALSE
+38283,2017,Mitsubishi,Outlander Sport 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Auto(AV-S6),4,2,,,Regular,Regular Gasoline,,24,30,27,1300,6,FALSE
+38284,2017,Jeep,Cherokee 4WD Active Drive II,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,4,2.4,,,Regular,Regular Gasoline,,21,27,23,1500,5,FALSE
+38285,2017,Lexus,NX 200t AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2,T,,Premium,Premium Gasoline,,22,28,24,1750,5,FALSE
+38286,2017,Lexus,NX 200t AWD F Sport,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2,T,,Premium,Premium Gasoline,,22,27,24,1750,5,FALSE
+38287,2017,Lexus,NX 300h AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S6),4,2.5,,,Regular,Regular Gasoline,,33,30,31,1150,7,FALSE
+38288,2017,Mitsubishi,Outlander 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Auto(AV-S6),4,2.4,,,Regular,Regular Gasoline,,24,29,26,1350,6,FALSE
+38289,2017,Mitsubishi,Outlander 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S6),6,3,,,Premium,Premium Gasoline,,20,27,23,1850,5,FALSE
+38290,2017,Mitsubishi,Outlander Sport 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Auto(AV-S6),4,2,,,Regular,Regular Gasoline,,23,29,26,1350,6,FALSE
+38291,2017,Toyota,Sequoia 4WD FFV,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,5.7,,,Gasoline or E85,Regular Gasoline,E85,13,17,14,2500,1,FALSE
+38292,2017,Infiniti,Q50 Hybrid,Compact Cars,Rear-Wheel Drive,Automatic (S7),6,3.5,,,Premium,Premium Gasoline,,27,32,29,1450,7,FALSE
+38293,2017,Infiniti,Q50 Hybrid AWD,Compact Cars,All-Wheel Drive,Automatic (S7),6,3.5,,,Premium,Premium Gasoline,,26,30,28,1500,6,FALSE
+38294,2017,Toyota,Avalon,Midsize Cars,Front-Wheel Drive,Automatic (S6),6,3.5,,,Regular,Regular Gasoline,,21,30,24,1450,5,FALSE
+38295,2017,Toyota,Avalon Hybrid,Midsize Cars,Front-Wheel Drive,Auto(AV-S6),4,2.5,,,Regular,Regular Gasoline,,40,39,40,850,9,FALSE
+38296,2017,Nissan,Frontier 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 5-Speed,4,2.5,,,Regular,Regular Gasoline,,17,22,19,1850,4,FALSE
+38297,2017,Nissan,Frontier 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Manual 5-Speed,4,2.5,,,Regular,Regular Gasoline,,19,23,21,1650,4,FALSE
+38298,2017,Nissan,Frontier 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 5-Speed,6,4,,,Regular,Regular Gasoline,,16,23,19,1850,4,FALSE
+38299,2017,Nissan,Frontier 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Manual 6-Speed,6,4,,,Regular,Regular Gasoline,,16,22,19,1850,4,FALSE
+38300,2017,Nissan,Frontier 2WD FFV,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 5-Speed,6,4,,,Gasoline or E85,Regular Gasoline,E85,16,22,18,1950,3,FALSE
+38301,2017,Nissan,Frontier 4WD,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic 5-Speed,6,4,,,Regular,Regular Gasoline,,15,21,17,2050,3,FALSE
+38302,2017,Nissan,Frontier 4WD,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Manual 6-Speed,6,4,,,Regular,Regular Gasoline,,16,21,18,1950,3,FALSE
+38303,2017,Nissan,Frontier 4WD FFV,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic 5-Speed,6,4,,,Gasoline or E85,Regular Gasoline,E85,15,21,17,2050,3,FALSE
+38304,2017,Jeep,Renegade 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 9-Speed,4,2.4,,,Gasoline or E85,Regular Gasoline,E85,22,30,25,1400,5,FALSE
+38305,2017,Jeep,Renegade 4WD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-Speed,4,2.4,,,Regular,Regular Gasoline,,21,29,24,1450,5,FALSE
+38306,2017,Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S6),8,5.7,,,Regular,Regular Gasoline,,13,17,15,2350,2,FALSE
+38307,2017,Mercedes-Benz,AMG G63,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,8,5.5,T,,Premium,Premium Gasoline,,12,14,13,3250,1,FALSE
+38308,2017,Mercedes-Benz,AMG G65,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,12,6,T,,Premium,Premium Gasoline,,11,13,12,3500,1,FALSE
+38309,2017,Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S6),8,5.7,,,Regular,Regular Gasoline,,13,17,14,2500,1,FALSE
+38310,2017,Mazda,3 4-Door,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,2,,,Regular,Regular Gasoline,,27,37,31,1150,7,FALSE
+38311,2017,Mazda,3 4-Door,Compact Cars,Front-Wheel Drive,Automatic (S6),4,2,,,Regular,Regular Gasoline,,28,37,32,1100,7,FALSE
+38312,2017,Mazda,3 4-Door,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,2.5,,,Regular,Regular Gasoline,,25,34,29,1200,7,FALSE
+38313,2017,Mazda,3 4-Door,Compact Cars,Front-Wheel Drive,Automatic (S6),4,2.5,,,Regular,Regular Gasoline,,27,36,30,1150,7,FALSE
+38314,2017,Mazda,3 4-Door,Compact Cars,Front-Wheel Drive,Automatic (S6),4,2.5,,,Regular,Regular Gasoline,,28,37,31,1150,7,FALSE
+38315,2017,Mercedes-Benz,S65 AMG Coupe,Compact Cars,Rear-Wheel Drive,Automatic 7-Speed,12,6,T,,Premium,Premium Gasoline,,13,21,16,2650,2,FALSE
+38316,2017,Dodge,Challenger,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,,,Regular,Regular Gasoline,,19,30,23,1500,5,FALSE
+38318,2017,Dodge,Challenger,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,8,5.7,,,Midgrade,Midgrade Gasoline,,16,25,19,2050,4,FALSE
+38319,2017,Dodge,Challenger,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,8,6.4,,,Premium,Premium Gasoline,,15,25,18,2350,3,FALSE
+38320,2017,Dodge,Challenger,Midsize Cars,Rear-Wheel Drive,Manual 6-Speed,8,5.7,,,Premium,Premium Gasoline,,15,23,18,2350,3,FALSE
+38321,2017,Dodge,Challenger SRT,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,8,6.2,,S,Premium,Premium Gasoline,,13,22,16,2650,2,FALSE
+38322,2017,Dodge,Challenger SRT,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,8,6.4,,,Premium,Premium Gasoline,,15,25,18,2350,3,FALSE
+38323,2017,Dodge,Challenger SRT,Midsize Cars,Rear-Wheel Drive,Manual 6-Speed,8,6.2,,S,Premium,Premium Gasoline,,13,21,16,2650,2,FALSE
+38324,2017,Mazda,3 5-Door,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2,,,Regular,Regular Gasoline,,27,37,31,1150,7,FALSE
+38325,2017,Mazda,3 5-Door,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2,,,Regular,Regular Gasoline,,28,37,31,1150,7,FALSE
+38326,2017,Mazda,3 5-Door,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2.5,,,Regular,Regular Gasoline,,25,33,28,1250,6,FALSE
+38327,2017,Mazda,3 5-Door,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.5,,,Regular,Regular Gasoline,,26,35,30,1150,7,FALSE
+38328,2017,Mazda,3 5-Door,Midsize Cars,Front-Wheel Drive,Automatic (S6),4,2.5,,,Regular,Regular Gasoline,,27,36,30,1150,7,FALSE
+38329,2017,Subaru,Impreza 4-Door,Midsize Cars,All-Wheel Drive,Auto(AV-S7),4,2,,,Regular,Regular Gasoline,,28,38,32,1100,7,FALSE
+38330,2017,Subaru,Impreza Sport 4-Door,Midsize Cars,All-Wheel Drive,Auto(AV-S7),4,2,,,Regular,Regular Gasoline,,27,36,30,1150,7,FALSE
+38331,2017,Chrysler,300,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,,,Regular,Regular Gasoline,,19,30,23,1500,5,FALSE
+38332,2017,Chrysler,300 AWD,Large Cars,All-Wheel Drive,Automatic 8-Speed,6,3.6,,,Regular,Regular Gasoline,,18,27,21,1650,4,FALSE
+38333,2017,Chrysler,300,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,8,5.7,,,Midgrade,Midgrade Gasoline,,16,25,19,2050,4,FALSE
+38334,2017,Dodge,Charger,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,,,Regular,Regular Gasoline,,19,30,23,1500,5,FALSE
+38335,2017,Dodge,Charger AWD,Large Cars,All-Wheel Drive,Automatic 8-Speed,6,3.6,,,Regular,Regular Gasoline,,18,27,21,1650,4,FALSE
+38336,2017,Dodge,Charger,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,8,5.7,,,Midgrade,Midgrade Gasoline,,16,25,19,2050,4,FALSE
+38337,2017,Dodge,Charger,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,8,6.4,,,Premium,Premium Gasoline,,15,25,18,2350,3,FALSE
+38338,2017,Dodge,Charger SRT,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,8,6.2,,S,Premium,Premium Gasoline,,13,22,16,2650,2,FALSE
+38339,2017,Dodge,Charger SRT,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,8,6.4,,,Premium,Premium Gasoline,,15,25,18,2350,3,FALSE
+38340,2017,Nissan,Juke,Small Station Wagons,Front-Wheel Drive,Auto(AV-S7),4,1.6,T,,Premium,Premium Gasoline,,28,32,29,1450,7,FALSE
+38341,2017,Nissan,Juke,Small Station Wagons,Front-Wheel Drive,Manual 6-Speed,4,1.6,T,,Premium,Premium Gasoline,,27,33,29,1450,7,FALSE
+38342,2017,Nissan,Juke AWD,Small Station Wagons,All-Wheel Drive,Auto(AV-S7),4,1.6,T,,Premium,Premium Gasoline,,26,30,28,1500,6,FALSE
+38343,2017,Nissan,Juke Nismo RS,Small Station Wagons,Front-Wheel Drive,Manual 6-Speed,4,1.6,T,,Premium,Premium Gasoline,,26,31,28,1500,6,FALSE
+38344,2017,Nissan,Juke Nismo RS AWD,Small Station Wagons,All-Wheel Drive,Auto(AV-S8),4,1.6,T,,Premium,Premium Gasoline,,25,29,26,1650,6,FALSE
+38345,2017,Subaru,Impreza 5-Door,Small Station Wagons,All-Wheel Drive,Auto(AV-S7),4,2,,,Regular,Regular Gasoline,,28,37,31,1150,7,FALSE
+38346,2017,Subaru,Impreza Sport 5-Door,Small Station Wagons,All-Wheel Drive,Auto(AV-S7),4,2,,,Regular,Regular Gasoline,,27,35,30,1150,7,FALSE
+38347,2017,Mercedes-Benz,Metris (Passenger Van),Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 7-Speed,4,2,T,,Premium,Premium Gasoline,,20,23,22,1900,5,FALSE
+38348,2017,Mercedes-Benz,Metris (Cargo Van),Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 7-Speed,4,2,T,,Premium,Premium Gasoline,,21,24,22,1900,5,FALSE
+38349,2017,Lexus,IS 300 AWD,Compact Cars,All-Wheel Drive,Automatic (S6),6,3.5,,,Premium,Premium Gasoline,,19,26,21,2000,4,FALSE
+38350,2017,Lexus,IS 350,Compact Cars,Rear-Wheel Drive,Automatic (S8),6,3.5,,,Premium,Premium Gasoline,,19,28,22,1900,5,FALSE
+38351,2017,Lexus,IS 350 AWD,Compact Cars,All-Wheel Drive,Automatic (S6),6,3.5,,,Premium,Premium Gasoline,,19,26,21,2000,4,FALSE
+38352,2017,Lexus,IS 200t,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2,T,,Premium,Premium Gasoline,,22,32,26,1650,6,FALSE
+38353,2017,Jaguar,XJ,Large Cars,Rear-Wheel Drive,Automatic (S8),8,5,,S,Premium,Premium Gasoline,,15,23,18,2350,3,FALSE
+38354,2017,Jaguar,XJL,Large Cars,Rear-Wheel Drive,Automatic (S8),8,5,,S,Premium,Premium Gasoline,,15,23,18,2350,3,FALSE
+38355,2017,Jaguar,XJ,Large Cars,Rear-Wheel Drive,Automatic (S8),6,3,,S,Premium,Premium Gasoline,,18,27,21,2000,4,FALSE
+38356,2017,Jaguar,XJ AWD,Large Cars,All-Wheel Drive,Automatic (S8),6,3,,S,Premium,Premium Gasoline,,17,26,20,2100,4,FALSE
+38357,2017,Jaguar,XJL AWD,Large Cars,All-Wheel Drive,Automatic (S8),6,3,,S,Premium,Premium Gasoline,,17,25,20,2100,4,FALSE
+38358,2017,Jaguar,XJL,Large Cars,Rear-Wheel Drive,Automatic (S8),6,3,,S,Premium,Premium Gasoline,,18,27,21,2000,4,FALSE
+38359,2017,Ford,Edge FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2,T,,Regular,Regular Gasoline,,20,29,24,1450,5,FALSE
+38360,2017,Ford,Edge FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2,T,,Regular,Regular Gasoline,,21,29,24,1450,5,FALSE
+38361,2017,Ford,Edge FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.5,,,Regular,Regular Gasoline,,17,26,20,1750,4,FALSE
+38362,2017,Ford,Edge AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),4,2,T,,Regular,Regular Gasoline,,20,27,23,1500,5,FALSE
+38363,2017,Ford,Edge AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.5,,,Regular,Regular Gasoline,,17,24,19,1850,4,FALSE
+38364,2017,Mercedes-Benz,AMG C63 S Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,8,4,T,,Premium,Premium Gasoline,,17,22,19,2250,4,FALSE
+38365,2017,Mercedes-Benz,AMG C63 Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,8,4,T,,Premium,Premium Gasoline,,17,22,19,2250,4,FALSE
+38366,2017,Mercedes-Benz,AMG C43 4matic Coupe,Subcompact Cars,4-Wheel Drive,Automatic 9-Speed,6,3,T,,Premium,Premium Gasoline,,20,28,23,1850,5,FALSE
+38367,2017,Mercedes-Benz,AMG C43 4matic Convertible,Subcompact Cars,4-Wheel Drive,Automatic 9-Speed,6,3,T,,Premium,Premium Gasoline,,19,26,22,1900,5,FALSE
+38368,2017,BMW,328d xDrive,Compact Cars,All-Wheel Drive,Automatic (S8),4,2,T,,Diesel,Diesel,,30,40,34,1150,8,FALSE
+38369,2017,Mercedes-Benz,AMG C43 4matic,Compact Cars,4-Wheel Drive,Automatic 9-Speed,6,3,T,,Premium,Premium Gasoline,,20,28,23,1850,5,FALSE
+38370,2017,Alfa Romeo,Giulia,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,6,2.9,T,,Premium,Premium Gasoline,,17,24,20,2100,4,FALSE
+38371,2017,Infiniti,Q70,Midsize Cars,Rear-Wheel Drive,Automatic (S7),8,5.6,,,Premium,Premium Gasoline,,16,24,19,2250,4,FALSE
+38372,2017,Infiniti,Q70 AWD,Midsize Cars,All-Wheel Drive,Automatic (S7),8,5.6,,,Premium,Premium Gasoline,,16,23,18,2350,3,FALSE
+38373,2017,Infiniti,Q70 Hybrid,Midsize Cars,Rear-Wheel Drive,Automatic (S7),6,3.5,,,Premium,Premium Gasoline,,28,33,30,1400,7,FALSE
+38374,2017,Infiniti,Q70,Midsize Cars,Rear-Wheel Drive,Automatic (S7),6,3.7,,,Premium,Premium Gasoline,,18,25,21,2000,4,FALSE
+38375,2017,Infiniti,Q70 AWD,Midsize Cars,All-Wheel Drive,Automatic (S7),6,3.7,,,Premium,Premium Gasoline,,18,24,20,2100,4,FALSE
+38376,2017,Mercedes-Benz,AMG E43 4matic,Midsize Cars,4-Wheel Drive,Automatic 9-Speed,6,3,T,,Premium,Premium Gasoline,,18,25,21,2000,4,FALSE
+38377,2017,MINI,John Cooper Works Clubman All4,Midsize Cars,All-Wheel Drive,Automatic (S8),4,2,T,,Premium,Premium Gasoline,,23,31,26,1650,6,FALSE
+38378,2017,BMW,328d xDrive Sports Wagon,Small Station Wagons,All-Wheel Drive,Automatic (S8),4,2,T,,Diesel,Diesel,,30,40,34,1150,8,FALSE
+38379,2017,Kia,Soul,Small Station Wagons,Front-Wheel Drive,Auto(AM7),4,1.6,T,,Regular,Regular Gasoline,,26,31,28,1250,6,FALSE
+38380,2017,Chevrolet,Colorado 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Manual 6-Speed,4,2.5,,,Regular,Regular Gasoline,,19,26,22,1600,5,FALSE
+38381,2017,Chevrolet,Colorado 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,4,2.5,,,Regular,Regular Gasoline,,20,26,22,1600,5,FALSE
+38382,2017,Chevrolet,Colorado 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,4,2.8,T,,Diesel,Diesel,,22,30,25,1550,5,FALSE
+38383,2017,Chevrolet,Colorado 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,,,Regular,Regular Gasoline,,18,25,20,1750,4,FALSE
+38384,2017,GMC,Canyon 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Manual 6-Speed,4,2.5,,,Regular,Regular Gasoline,,19,26,22,1600,5,FALSE
+38385,2017,GMC,Canyon 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,4,2.5,,,Regular,Regular Gasoline,,20,26,22,1600,5,FALSE
+38386,2017,GMC,Canyon 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 6-Speed,4,2.8,T,,Diesel,Diesel,,22,30,25,1550,5,FALSE
+38387,2017,GMC,Canyon 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,,,Regular,Regular Gasoline,,18,25,20,1750,4,FALSE
+38388,2017,Chevrolet,Colorado 4WD,Small Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,4,2.5,,,Regular,Regular Gasoline,,19,24,21,1650,4,FALSE
+38389,2017,Chevrolet,Colorado 4WD,Small Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-Speed,6,3.6,,,Regular,Regular Gasoline,,17,24,19,1850,4,FALSE
+38390,2017,Chevrolet,Colorado 4WD,Small Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,4,2.8,T,,Diesel,Diesel,,20,28,23,1700,5,FALSE
+38391,2017,GMC,Canyon 4WD,Small Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,4,2.5,,,Regular,Regular Gasoline,,19,24,21,1650,4,FALSE
+38392,2017,GMC,Canyon 4WD,Small Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-Speed,6,3.6,,,Regular,Regular Gasoline,,17,24,19,1850,4,FALSE
+38393,2017,GMC,Canyon 4WD,Small Pickup Trucks 4WD,4-Wheel Drive,Automatic 6-Speed,4,2.8,T,,Diesel,Diesel,,20,28,23,1700,5,FALSE
+38394,2017,Chevrolet,Colorado Cab Chassis 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,,,Regular,Regular Gasoline,,15,17,16,2200,2,FALSE
+38395,2017,GMC,Canyon Cab Chassis 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,,,Regular,Regular Gasoline,,15,17,16,2200,2,FALSE
+38396,2017,Lincoln,MKX FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.7,,,Regular,Regular Gasoline,,17,25,20,1750,4,FALSE
+38397,2017,Lincoln,MKX FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,2.7,T,,Regular,Regular Gasoline,,18,25,20,1750,4,FALSE
+38398,2017,Nissan,Rogue FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),4,2.5,,,Regular,Regular Gasoline,,26,33,29,1200,7,FALSE
+38399,2017,BMW,X4 xDrive28i,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2,T,,Premium,Premium Gasoline,,20,27,23,1850,5,FALSE
+38400,2017,Ford,Edge AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,2.7,T,,Regular,Regular Gasoline,,17,24,20,1750,4,FALSE
+38401,2017,Lincoln,MKX AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,2.7,T,,Regular,Regular Gasoline,,17,24,19,1850,4,FALSE
+38402,2017,Lincoln,MKX AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.7,,,Regular,Regular Gasoline,,16,23,19,1850,4,FALSE
+38403,2017,Mercedes-Benz,AMG GLC43 4matic Coupe,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,6,3,T,,Premium,Premium Gasoline,,18,24,20,2100,4,FALSE
+38404,2017,Nissan,Rogue AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (variable gear ratios),4,2.5,,,Regular,Regular Gasoline,,25,32,27,1300,6,FALSE
+38405,2017,Audi,Q7,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),4,2,T,,Premium,Premium Gasoline,,20,25,22,1900,5,FALSE
+38406,2017,Kia,Optima Plug-in Hybrid,Midsize Cars,Front-Wheel Drive,Auto(AM6),4,2,,,Regular Gas and Electricity,Regular Gasoline,Electricity,38,43,40,850,10,TRUE
+38407,2017,Alfa Romeo,4C,Two Seaters,Rear-Wheel Drive,Auto(AM6),4,1.8,T,,Premium,Premium Gasoline,,24,34,28,1500,6,FALSE
+38408,2017,Lamborghini,Aventador Roadster LP740-4,Two Seaters,All-Wheel Drive,Auto(AM-S7),12,6.5,,,Premium,Premium Gasoline,,10,16,12,3500,1,FALSE
+38409,2017,Lamborghini,Aventador Coupe LP740-4,Two Seaters,All-Wheel Drive,Auto(AM-S7),12,6.5,,,Premium,Premium Gasoline,,10,16,12,3500,1,FALSE
+38410,2017,Dodge,Challenger,Midsize Cars,Rear-Wheel Drive,Manual 6-Speed,8,6.4,,,Premium,Premium Gasoline,,14,23,17,2500,3,FALSE
+38411,2017,Dodge,Challenger SRT,Midsize Cars,Rear-Wheel Drive,Manual 6-Speed,8,6.4,,,Premium,Premium Gasoline,,14,23,17,2500,3,FALSE
+38412,2017,Volvo,V90 CC AWD,Midsize Station Wagons,All-Wheel Drive,Automatic (S8),4,2,,,Premium,Premium Gasoline,,22,30,25,1700,5,FALSE
+38413,2017,Lincoln,MKT Livery AWD,Special Purpose Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,6,3.7,,,Regular,Regular Gasoline,,16,23,18,1950,3,FALSE
+38414,2017,Toyota,Highlander,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.7,,,Regular,Regular Gasoline,,20,24,22,1600,5,FALSE
+38415,2017,Toyota,Highlander LE/XLE/SE/LTD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),6,3.5,,,Regular,Regular Gasoline,,21,27,23,1500,5,FALSE
+38416,2017,Toyota,Highlander,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),6,3.5,,,Regular,Regular Gasoline,,20,27,23,1500,5,FALSE
+38417,2017,Mercedes-Benz,AMG GLC43 4matic,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,6,3,T,,Premium,Premium Gasoline,,18,24,20,2100,4,FALSE
+38418,2017,Ford,Flex FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.5,,,Regular,Regular Gasoline,,16,23,19,1850,4,FALSE
+38419,2017,Lincoln,MKT FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),6,3.7,,,Regular,Regular Gasoline,,16,24,19,1850,4,FALSE
+38420,2017,Ford,Flex AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.5,,,Regular,Regular Gasoline,,16,22,18,1950,3,FALSE
+38421,2017,Ford,Flex AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.5,T,,Regular,Regular Gasoline,,15,21,17,2050,3,FALSE
+38422,2017,Lincoln,MKT AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6,3.5,T,,Regular,Regular Gasoline,,15,21,17,2050,3,FALSE
+38423,2017,Toyota,Highlander AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.5,,,Regular,Regular Gasoline,,20,26,22,1600,5,FALSE
+38424,2017,Toyota,Highlander AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.5,,,Regular,Regular Gasoline,,19,26,22,1600,5,FALSE
+38425,2017,Toyota,Highlander Hybrid 4WD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S6),6,3.5,,,Regular,Regular Gasoline,,29,27,28,1250,6,FALSE
+38426,2017,Toyota,Highlander Hybrid 4WD LE Plus,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S6),6,3.5,,,Regular,Regular Gasoline,,30,28,29,1200,7,FALSE
+38427,2017,Toyota,Highlander AWD LE,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3.5,,,Regular,Regular Gasoline,,20,27,23,1500,5,FALSE
+38428,2017,Nissan,Leaf,Midsize Cars,Front-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,124,101,112,600,10,FALSE
+38429,2017,BMW,328d,Compact Cars,Rear-Wheel Drive,Automatic (S8),4,2,T,,Diesel,Diesel,,31,43,36,1050,8,FALSE
+38430,2017,MINI,John Cooper Works Clubman All4,Midsize Cars,All-Wheel Drive,Manual 6-Speed,4,2,T,,Premium,Premium Gasoline,,21,31,24,1750,5,FALSE
+38431,2017,Hyundai,Ioniq Electric,Midsize Cars,Front-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,150,122,136,500,10,FALSE
+38432,2017,Porsche,911 Carrera GTS,Minicompact Cars,Rear-Wheel Drive,Manual 7-Speed,6,3,T,,Premium,Premium Gasoline,,18,26,21,2000,4,FALSE
+38433,2017,Porsche,911 Carrera GTS,Minicompact Cars,Rear-Wheel Drive,Auto(AM-S7),6,3,T,,Premium,Premium Gasoline,,20,26,23,1850,5,FALSE
+38434,2017,Porsche,911 Carrera GTS Cabriolet,Minicompact Cars,Rear-Wheel Drive,Manual 7-Speed,6,3,T,,Premium,Premium Gasoline,,18,26,21,2000,4,FALSE
+38435,2017,Porsche,911 Carrera GTS Cabriolet,Minicompact Cars,Rear-Wheel Drive,Auto(AM-S7),6,3,T,,Premium,Premium Gasoline,,20,26,22,1900,5,FALSE
+38436,2017,Porsche,911 Carrera 4 GTS,Minicompact Cars,4-Wheel Drive,Manual 7-Speed,6,3,T,,Premium,Premium Gasoline,,18,26,21,2000,4,FALSE
+38437,2017,Porsche,911 Carrera 4 GTS,Minicompact Cars,4-Wheel Drive,Auto(AM-S7),6,3,T,,Premium,Premium Gasoline,,20,26,22,1900,5,FALSE
+38438,2017,Porsche,911 Carrera 4 GTS Cabriolet,Minicompact Cars,4-Wheel Drive,Manual 7-Speed,6,3,T,,Premium,Premium Gasoline,,18,26,21,2000,4,FALSE
+38439,2017,Porsche,911 Carrera 4 GTS Cabriolet,Minicompact Cars,4-Wheel Drive,Auto(AM-S7),6,3,T,,Premium,Premium Gasoline,,20,25,22,1900,5,FALSE
+38440,2017,Porsche,911 Targa 4 GTS,Minicompact Cars,4-Wheel Drive,Manual 7-Speed,6,3,T,,Premium,Premium Gasoline,,18,26,21,2000,4,FALSE
+38441,2017,Porsche,911 Targa 4 GTS,Minicompact Cars,4-Wheel Drive,Auto(AM-S7),6,3,T,,Premium,Premium Gasoline,,20,26,22,1900,5,FALSE
+38442,2017,Chevrolet,Spark ACTIV,Subcompact Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.4,,,Regular,Regular Gasoline,,30,37,33,1050,8,FALSE
+38443,2017,Chevrolet,Spark ACTIV,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4,1.4,,,Regular,Regular Gasoline,,29,37,32,1100,7,FALSE
+38444,2017,Chrysler,300 AWD,Large Cars,All-Wheel Drive,Automatic 8-Speed,6,3.6,,,Gasoline or E85,Regular Gasoline,E85,18,27,21,1650,4,FALSE
+38445,2017,Dodge,Charger AWD,Large Cars,All-Wheel Drive,Automatic 8-Speed,6,3.6,,,Gasoline or E85,Regular Gasoline,E85,18,27,21,1650,4,FALSE
+38446,2017,Honda,Pilot FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S9),6,3.5,,,Regular,Regular Gasoline,,20,27,23,1500,5,FALSE
+38447,2017,Honda,Pilot FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,6,3.5,,,Regular,Regular Gasoline,,19,27,22,1600,5,FALSE
+38448,2017,Honda,CR-V FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),4,2.4,,,Regular,Regular Gasoline,,26,32,28,1250,6,FALSE
+38449,2017,Honda,CR-V FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),4,1.5,T,,Regular,Regular Gasoline,,28,34,30,1150,7,FALSE
+38450,2017,Honda,Pilot AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),6,3.5,,,Regular,Regular Gasoline,,19,26,22,1600,5,FALSE
+38451,2017,Honda,Pilot AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 6-Speed,6,3.5,,,Regular,Regular Gasoline,,18,26,21,1650,4,FALSE
+38452,2017,Honda,CR-V AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (variable gear ratios),4,2.4,,,Regular,Regular Gasoline,,25,31,27,1300,6,FALSE
+38453,2017,Honda,CR-V AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (variable gear ratios),4,1.5,T,,Regular,Regular Gasoline,,27,33,29,1200,7,FALSE
+38454,2017,Mercedes-Benz,GLC300 4matic Coupe,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S9),4,2,T,,Premium,Premium Gasoline,,22,27,24,1750,5,FALSE
+38455,2017,Land Rover,Range Rover,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),8,5,,S,Premium,Premium Gasoline,,14,19,16,2650,2,FALSE
+38456,2017,Land Rover,Range Rover LWB,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),8,5,,S,Premium,Premium Gasoline,,14,19,16,2650,2,FALSE
+38457,2017,Land Rover,Range Rover Sport,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),8,5,,S,Premium,Premium Gasoline,,14,19,16,2650,2,FALSE
+38458,2017,Mercedes-Benz,G550,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,8,4,T,,Premium,Premium Gasoline,,13,14,13,3250,1,FALSE
+38459,2017,Mercedes-Benz,GLE550e 4matic,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,6,3,T,,Premium and Electricity,Premium Gasoline,Electricity,20,23,21,2000,5,TRUE
+38460,2017,Mercedes-Benz,S550e,Large Cars,Rear-Wheel Drive,Automatic 7-Speed,6,3,T,,Premium and Electricity,Premium Gasoline,Electricity,24,30,26,1650,7,TRUE
+38461,2017,smart,fortwo coupe,Two Seaters,Rear-Wheel Drive,Auto(AM6),3,0.9,T,,Premium,Premium Gasoline,,33,39,35,1200,8,FALSE
+38462,2017,smart,fortwo coupe,Two Seaters,Rear-Wheel Drive,Manual 5-Speed,3,0.9,T,,Premium,Premium Gasoline,,31,39,34,1250,8,FALSE
+38463,2017,BMW,230i Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),4,2,T,,Premium,Premium Gasoline,,24,35,28,1500,6,FALSE
+38464,2017,Ford,Fiesta FWD,Subcompact Cars,Front-Wheel Drive,Auto(AM-S6),4,1.6,,,Regular,Regular Gasoline,,27,37,31,1150,7,FALSE
+38465,2017,Ford,Fiesta FWD,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4,1.6,,,Regular,Regular Gasoline,,27,35,30,1150,7,FALSE
+38466,2017,Ford,Fiesta SFE FWD,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,3,1,T,,Regular,Regular Gasoline,,31,41,35,1000,8,FALSE
+38467,2017,Audi,A4 quattro,Compact Cars,All-Wheel Drive,Manual 6-Speed,4,2,T,,Premium,Premium Gasoline,,24,33,27,1550,6,FALSE
+38468,2017,Ford,Fiesta ST FWD,Compact Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,T,,Regular,Regular Gasoline,,26,33,29,1200,7,FALSE
+38469,2017,Ford,Focus FWD,Compact Cars,Front-Wheel Drive,Automatic (S6),3,1,T,,Regular,Regular Gasoline,,27,38,31,1150,7,FALSE
+38470,2017,Ford,Focus FWD,Compact Cars,Front-Wheel Drive,Manual 6-Speed,3,1,T,,Regular,Regular Gasoline,,30,40,34,1050,8,FALSE
+38471,2017,Ford,Focus FWD,Compact Cars,Front-Wheel Drive,Auto(AM6),4,2,,,Regular,Regular Gasoline,,26,38,31,1150,7,FALSE
+38472,2017,Ford,Focus FWD,Compact Cars,Front-Wheel Drive,Auto(AM-S6),4,2,,,Regular,Regular Gasoline,,26,36,29,1200,7,FALSE
+38473,2017,Ford,Focus FWD,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4,2,,,Regular,Regular Gasoline,,25,34,28,1250,6,FALSE
+38474,2017,Ford,Focus FWD FFV,Compact Cars,Front-Wheel Drive,Auto(AM6),4,2,,,Gasoline or E85,Regular Gasoline,E85,26,38,31,1150,7,FALSE
+38475,2017,Ford,Focus FWD FFV,Compact Cars,Front-Wheel Drive,Auto(AM-S6),4,2,,,Gasoline or E85,Regular Gasoline,E85,26,36,29,1200,7,FALSE
+38476,2017,Ford,Focus FWD FFV,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4,2,,,Gasoline or E85,Regular Gasoline,E85,25,34,28,1250,6,FALSE
+38477,2017,Ford,Focus ST FWD,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,2,T,,Regular,Regular Gasoline,,22,30,25,1400,5,FALSE
+38478,2017,Ford,Taurus FWD,Large Cars,Front-Wheel Drive,Automatic (S6),4,2,T,,Regular,Regular Gasoline,,20,29,23,1500,5,FALSE
+38479,2017,Ford,Taurus AWD FFV,Large Cars,All-Wheel Drive,Automatic (S6),6,3.5,,,Gasoline or E85,Regular Gasoline,E85,17,24,19,1850,4,FALSE
+38480,2017,Ford,Taurus FWD FFV,Large Cars,Front-Wheel Drive,Automatic (S6),6,3.5,,,Gasoline or E85,Regular Gasoline,E85,18,27,21,1650,4,FALSE
+38481,2017,Ford,Taurus AWD,Large Cars,All-Wheel Drive,Automatic (S6),6,3.5,,,Regular,Regular Gasoline,,17,24,19,1850,4,FALSE
+38482,2017,Ford,Taurus FWD,Large Cars,Front-Wheel Drive,Automatic (S6),6,3.5,,,Regular,Regular Gasoline,,18,27,21,1650,4,FALSE
+38483,2017,Ford,Taurus AWD,Large Cars,All-Wheel Drive,Automatic (S6),6,3.5,T,,Regular,Regular Gasoline,,16,24,19,1850,4,FALSE
+38484,2017,Hyundai,Ioniq,Large Cars,Front-Wheel Drive,Auto(AM6),4,1.6,,,Regular,Regular Gasoline,,55,54,55,650,10,FALSE
+38485,2017,Hyundai,Ioniq Blue,Large Cars,Front-Wheel Drive,Auto(AM6),4,1.6,,,Regular,Regular Gasoline,,57,59,58,600,10,FALSE
+38486,2017,Kia,Niro,Small Station Wagons,Front-Wheel Drive,Auto(AM6),4,1.6,,,Regular,Regular Gasoline,,51,46,49,700,10,FALSE
+38487,2017,Nissan,Quest,Minivan - 2WD,Front-Wheel Drive,Automatic (variable gear ratios),6,3.5,,,Regular,Regular Gasoline,,20,27,22,1600,5,FALSE
+38488,2017,Mazda,CX-9 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4,2.5,T,,Regular,Regular Gasoline,,22,28,24,1450,5,FALSE
+38489,2017,Mazda,CX-9 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S6),4,2.5,T,,Regular,Regular Gasoline,,20,26,23,1500,5,FALSE
+38490,2017,BMW,X5 xDrive 35d,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6,3,T,,Diesel,Diesel,,23,29,25,1550,5,FALSE
+38491,2017,Chrysler,Pacifica Plug-in Hybrid,Minivan - 2WD,Front-Wheel Drive,Automatic (variable gear ratios),6,3.6,,,Regular Gas and Electricity,Regular Gasoline,Electricity,32,33,32,1100,10,TRUE
+38492,2016,Volkswagen,Beetle Dune Convertible,Subcompact Cars,Front-Wheel Drive,Automatic (S6),4,1.8,T,,Regular,Regular Gasoline,,24,31,27,1300,6,FALSE
+38493,2017,Chrysler,300,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,,,Gasoline or E85,Regular Gasoline,E85,19,30,23,1500,5,FALSE
+38494,2017,Dodge,Charger,Large Cars,Rear-Wheel Drive,Automatic 8-Speed,6,3.6,,,Gasoline or E85,Regular Gasoline,E85,19,30,23,1500,5,FALSE
+38495,2017,Ford,C-MAX Hybrid FWD,Large Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2,,,Regular,Regular Gasoline,,42,38,40,850,9,FALSE
+38496,2017,Kia,Niro Touring,Small Station Wagons,Front-Wheel Drive,Auto(AM6),4,1.6,,,Regular,Regular Gasoline,,46,40,43,800,9,FALSE
+38497,2017,Kia,Niro FE,Small Station Wagons,Front-Wheel Drive,Auto(AM6),4,1.6,,,Regular,Regular Gasoline,,52,49,50,700,10,FALSE
+38498,2017,Porsche,Macan Turbo Kit,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AM-S7),6,3.6,T,,Premium,Premium Gasoline,,17,23,19,2250,4,FALSE
+38499,2016,Mercedes-Benz,C350e,Compact Cars,Rear-Wheel Drive,Automatic 7-Speed,4,2,T,,Premium and Electricity,Premium Gasoline,Electricity,28,32,30,1400,8,TRUE
+38500,2016,Tesla,Model X AWD - P100D,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,81,92,86,750,10,FALSE
+38501,2017,MINI,Cooper Countryman All4,Midsize Cars,All-Wheel Drive,Manual 6-Speed,4,1.5,T,,Premium,Premium Gasoline,,22,32,26,1650,6,FALSE
+38502,2017,BMW,M760i xDrive,Large Cars,All-Wheel Drive,Automatic (S8),12,6.6,T,,Premium,Premium Gasoline,,13,20,16,2650,2,FALSE
+38503,2017,Land Rover,Range Rover,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),6,3,,S,Premium,Premium Gasoline,,17,23,19,2250,4,FALSE
+38504,2017,Land Rover,Range Rover Sport,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),6,3,,S,Premium,Premium Gasoline,,17,23,19,2250,4,FALSE
+38505,2017,Ford,Focus Electric,Compact Cars,Front-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,118,96,107,600,10,FALSE
+38506,2017,Ford,C-MAX Energi Plug-In Hybrid,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,2,,,Regular Gas and Electricity,Regular Gasoline,Electricity,41,38,39,900,10,TRUE
+38507,2017,Ford,GT,Two Seaters,Rear-Wheel Drive,Auto(AM7),6,3.5,T,,Premium,Premium Gasoline,,11,18,14,3000,1,FALSE
+38508,2017,Toyota,Prius c,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.5,,,Regular,Regular Gasoline,,48,43,46,750,10,FALSE
+38509,2017,Honda,Odyssey,Minivan - 2WD,Front-Wheel Drive,Automatic 6-Speed,6,3.5,,,Regular,Regular Gasoline,,19,27,22,1600,5,FALSE
+38510,2017,Nissan,Rogue Hybrid  FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Auto(AV-S7),4,2,,,Regular,Regular Gasoline,,33,35,34,1050,8,FALSE
+38511,2017,Nissan,Rogue Hybrid  AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Auto(AV-S7),4,2,,,Regular,Regular Gasoline,,31,34,33,1050,8,FALSE
+38512,2017,Toyota,4Runner 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S5),6,4,,,Regular,Regular Gasoline,,17,21,18,1950,3,FALSE
+38513,2017,Toyota,4Runner 4WD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S5),6,4,,,Regular,Regular Gasoline,,17,20,18,1950,3,FALSE
+38514,2017,Toyota,4Runner 4WD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S5),6,4,,,Regular,Regular Gasoline,,17,20,18,1950,3,FALSE
+38515,2017,Alfa Romeo,Giulia,Midsize Cars,Rear-Wheel Drive,Automatic 8-Speed,4,2,T,,Premium,Premium Gasoline,,24,33,27,1550,6,FALSE
+38516,2017,Alfa Romeo,Giulia AWD,Midsize Cars,All-Wheel Drive,Automatic 8-Speed,4,2,T,,Premium,Premium Gasoline,,23,31,26,1650,6,FALSE
+38517,2017,Nissan,Sentra Nismo,Midsize Cars,Front-Wheel Drive,Manual 6-Speed,4,1.6,T,,Premium,Premium Gasoline,,25,31,27,1550,6,FALSE
+38518,2017,Nissan,Sentra Nismo,Midsize Cars,Front-Wheel Drive,Auto(AV-S7),4,1.6,T,,Premium,Premium Gasoline,,25,30,27,1550,6,FALSE
+38519,2017,Land Rover,Range Rover,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),6,3,T,,Diesel,Diesel,,22,28,24,1600,5,FALSE
+38520,2017,Land Rover,Range Rover Sport,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),6,3,T,,Diesel,Diesel,,22,28,24,1600,5,FALSE
+38521,2017,Volkswagen,Golf Alltrack,Small Station Wagons,All-Wheel Drive,Manual 6-Speed,4,1.8,T,,Regular,Regular Gasoline,,22,32,26,1350,6,FALSE
+38522,2017,Volkswagen,Golf SportWagen 4motion,Small Station Wagons,All-Wheel Drive,Manual 6-Speed,4,1.8,T,,Regular,Regular Gasoline,,22,32,26,1350,6,FALSE
+38523,2017,Tesla,Model S AWD - 60D,Large Cars,All-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,101,107,104,600,10,FALSE
+38524,2017,Tesla,Model S AWD - 75D,Large Cars,All-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,102,105,103,650,10,FALSE
+38525,2017,Tesla,Model S AWD - P100D,Large Cars,All-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,92,105,98,700,10,FALSE
+38526,2017,Tesla,Model X AWD - 60D,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,91,94,93,700,10,FALSE
+38527,2017,Tesla,Model X AWD - 75D,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,91,95,93,700,10,FALSE
+38528,2017,Tesla,Model X AWD - 90D,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,90,94,92,700,10,FALSE
+38529,2017,Tesla,Model X AWD - P90D,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,89,90,89,750,10,FALSE
+38530,2017,Tesla,Model X AWD - P100D,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,81,92,86,750,10,FALSE
+38531,2017,Toyota,Prius Prime,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4,1.8,,,Regular Gas and Electricity,Regular Gasoline,Electricity,55,53,54,650,10,TRUE
+38532,2017,Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Automatic (S10),8,6.2,,S,Premium,Premium Gasoline,,12,20,15,2800,2,FALSE
+38533,2017,Dodge,Challenger GT,Midsize Cars,All-Wheel Drive,Automatic 8-Speed,6,3.6,,,Regular,Regular Gasoline,,18,27,21,1650,4,FALSE
+38534,2017,Jeep,New Compass 4WD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-Speed,4,2.4,,,Regular,Regular Gasoline,,22,30,25,1400,5,FALSE
+38535,2017,Mercedes-Benz,AMG GLE43 4matic,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-Speed,6,3,T,,Premium,Premium Gasoline,,17,23,20,2100,4,FALSE
+38536,2017,Mercedes-Benz,G550,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,8,4,T,,Premium,Premium Gasoline,,11,11,11,3850,1,FALSE
+38537,2017,Tesla,Model S AWD - P90D,Large Cars,All-Wheel Drive,Automatic (A1),,,,,Electricity,Electricity,,92,100,95,700,10,FALSE
+38538,2017,Subaru,Impreza 4-Door,Midsize Cars,All-Wheel Drive,Manual 5-Speed,4,2,,,Regular,Regular Gasoline,,24,32,27,1300,6,FALSE
+38539,2017,Subaru,Impreza Sport 4-Door,Midsize Cars,All-Wheel Drive,Manual 5-Speed,4,2,,,Regular,Regular Gasoline,,23,31,26,1350,6,FALSE
+38540,2017,Subaru,Impreza 5-Door,Small Station Wagons,All-Wheel Drive,Manual 5-Speed,4,2,,,Regular,Regular Gasoline,,24,31,26,1350,6,FALSE
+38541,2017,Subaru,Impreza Sport 5-Door,Small Station Wagons,All-Wheel Drive,Manual 5-Speed,4,2,,,Regular,Regular Gasoline,,22,30,25,1400,5,FALSE
+38542,2017,Chrysler,Pacifica,Minivan - 2WD,Front-Wheel Drive,Automatic 9-Speed,6,3.6,,,Regular,Regular Gasoline,,19,28,22,1600,5,FALSE
